@@ -3,3 +3,4 @@ def test(a ,b):
 
 
 print(test(4,2))
+print("hello")
