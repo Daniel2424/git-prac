@@ -1,1 +1,2 @@
 ruzhkov test reset
+some text from branch testing
