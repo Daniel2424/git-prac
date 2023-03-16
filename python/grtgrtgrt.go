@@ -1,2 +1,1 @@
 package python
-п3п3п
